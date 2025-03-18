@@ -1,4 +1,4 @@
-#import "@preview/codly:0.2.0": *
+#import "@preview/codly:1.2.0": *
 
 #let codly = codly.with(
   // display-icon: false, display-name: false,
